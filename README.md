@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -112,7 +111,7 @@
 </div>
 
 <footer>
-    &copy; 2024 Kasif Mohamed. All Rights Reserved.
+    &copy; 2025 Kasif Mohamed. All Rights Reserved.
 </footer>
 
 </body>
